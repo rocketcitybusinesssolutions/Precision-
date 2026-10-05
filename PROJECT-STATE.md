@@ -47,6 +47,9 @@ before-after pairs → Service Area → FAQ → "Tell Us About Your Project" est
 
 ## Platform: Divi 4.27.9 on SiteGround staging
 
+Staging: https://davids1258.sg-host.com · Royal MCP endpoint: `https://davids1258.sg-host.com/wp-json/royal-mcp/v1/mcp`
+(cloud sessions need `davids1258.sg-host.com` in the environment's allowed domains, plus Royal MCP added as a connector).
+
 Built via the **Royal MCP** WordPress plugin (OAuth/API key; key was posted in chat — **rotate it**).
 Royal MCP cannot write Divi page settings, CF7 form settings, Rank Math settings, or install plugins.
 
