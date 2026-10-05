@@ -66,6 +66,12 @@ Other staging objects:
 - Home: Featured Work + Reviews sections are **disabled** until real content exists
 - Media IDs: bathroom 57–62, 73 · kitchen ~75–83 · maintenance 93–105
 
+## Workflow decision
+
+All pages stay **draft** until every page is built; the owner then edits them in Divi before publishing.
+Once a page has been hand-edited, never regenerate/overwrite its full layout — read the live content
+first and make targeted edits only.
+
 ## Remaining pages
 
 1. Painting (incl. drywall, popcorn ceiling removal) — **needs photos**
