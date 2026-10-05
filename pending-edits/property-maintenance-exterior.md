@@ -21,8 +21,8 @@ Both are 1125×1500 WebP with no EXIF data and no visible house numbers.
 
 ### H2: Porch Ceilings, Gutter Guards, and Exterior Upkeep
 
-Precision Home Solutions handles exterior work like porch ceiling installation and gutter guard
-installation for homeowners in the Huntsville area.
+Precision Home Solutions installs porch ceilings and gutter guards for homeowners in the Huntsville
+area.
 
 The outside of your house takes the beating first. A sagging or stained porch ceiling and gutters
 packed with leaves don't look urgent, but they're how water gets where it shouldn't.
